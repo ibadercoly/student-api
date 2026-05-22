@@ -58,7 +58,7 @@
             </plugin>
             
             <!-- Plugin Checkstyle désactivé car trop strict pour le TP -->
-            <!--
+            
                  <plugin>
                  <groupId>org.apache.maven.plugins</groupId>
                  <artifactId>maven-checkstyle-plugin</artifactId>
@@ -67,7 +67,6 @@
                  <configLocation>sun_checks.xml</configLocation>
                  </configuration>
                  </plugin>
-            -->
             
             <!-- JaCoCo : couverture de code (seuil 70 %) -->
             <plugin>
