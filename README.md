@@ -8,6 +8,7 @@ API REST Spring Boot pour la gestion d'étudiants — TP Intégration Continue a
 ## Prérequis
 
 - Java 17
+
 - Maven 3.9
 
 ## Lancer le projet
